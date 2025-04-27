@@ -2,7 +2,6 @@
 
 **Author:** Jai Deshmukh  
 **Date:** February 2025  
-**Institution:** Georgia Institute of Technology (MSc Quantitative and Computational Finance)
 
 ---
 
